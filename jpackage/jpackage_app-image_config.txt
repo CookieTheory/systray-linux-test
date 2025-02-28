@@ -1,0 +1,8 @@
+--input ./build
+--name SysTray
+--main-jar systray-linux.jar
+--main-class hr.linux.systray_linux.SystrayLinuxApplication
+--app-version 1.0
+--type app-image
+--icon ./resources/arch-logo-150.png
+--description "Test System Tray"

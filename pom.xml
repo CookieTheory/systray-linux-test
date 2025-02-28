@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>hr.linux</groupId>
 	<artifactId>systray-linux</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>systray-linux</name>
 	<description>Testing for linux system tray/app indicator</description>
 	<url/>
